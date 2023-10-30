@@ -1,3 +1,3 @@
 # advice generator app
 
-[live version](url)
+[live version](https://justindr96.github.io/advice-generator-app/)
